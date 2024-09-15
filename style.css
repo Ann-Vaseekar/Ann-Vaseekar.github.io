@@ -244,4 +244,13 @@ footer > nav > a {
    grid-gap: 0px;
 }
 
+#name {
+  display: flex;
+  gap: 30px;
+}
 
+
+#name-group {
+  display: flex;
+  gap: 10px;
+}
