@@ -245,10 +245,12 @@ footer > nav > a {
 
 #name {
   display: flex;
+  flex-direction: row;
   gap: 30px;
 }
 
 #name-group {
   display: flex;
+  flex-direction: row;
   gap: 15px;
 }
